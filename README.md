@@ -1,14 +1,9 @@
-# calibre-web
-Calibre-web - Gestión libros electrónicos - Docker compose
+# Calibre-web
 
-
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 Usuario: admin
 
 Contraseña: admin123
 
 Location of Calibre Database: /books
-
-
-
